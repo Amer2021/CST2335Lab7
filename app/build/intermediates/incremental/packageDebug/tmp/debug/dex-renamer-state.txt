@@ -1,0 +1,4 @@
+#Thu Mar 25 18:21:03 EDT 2021
+base.0=C\:\\Users\\Amer Chireh\\Downloads\\shibly_project\\ANDROID\\v9\\cst2335Lab7\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,32 @@
+com/cst2335Lab7/DatabaseHelper.java
+ com.cst2335Lab7.DatabaseHelper
+com/cst2335Lab7/Message.java
+ com.cst2335Lab7.Message
+com/cst2335Lab7/ChatRoomActivity.java
+ com.cst2335Lab7.ChatRoomActivity
+ com.cst2335Lab7.ChatRoomActivity$1
+ com.cst2335Lab7.ChatRoomActivity$2
+ com.cst2335Lab7.ChatRoomActivity$3
+ com.cst2335Lab7.ChatRoomActivity$3$1
+ com.cst2335Lab7.ChatRoomActivity$3$2
+ com.cst2335Lab7.ChatRoomActivity$4
+com/cst2335Lab7/ProfileActivity.java
+ com.cst2335Lab7.ProfileActivity
+ com.cst2335Lab7.ProfileActivity$1
+ com.cst2335Lab7.ProfileActivity$2
+com/cst2335Lab7/MainActivity.java
+ com.cst2335Lab7.MainActivity
+com/cst2335Lab7/DBManager.java
+ com.cst2335Lab7.DBManager
+com/cst2335Lab7/DetailsFragment.java
+ com.cst2335Lab7.DetailsFragment
+ com.cst2335Lab7.DetailsFragment$1
+com/cst2335Lab7/EmptyActivity.java
+ com.cst2335Lab7.EmptyActivity
+com/cst2335Lab7/BuildConfig.java
+ com.cst2335Lab7.BuildConfig
+com/cst2335Lab7/ChatAdapter.java
+ com.cst2335Lab7.ChatAdapter
+com/cst2335Lab7/WeatherForecast.java
+ com.cst2335Lab7.WeatherForecast
+ com.cst2335Lab7.WeatherForecast$ForecastQuery
